@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sean Rogers
 
-<!--
-**sean-drogers/sean-drogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS @ Stevens Institute of Technology ’27**  
+Computer Science Major • Exploring software, systems, and data • Open to **Summer 2026** internships.
 
-Here are some ideas to get you started:
+- 📍 Hoboken, NJ  
+- 🧰 Languages: C++, C, Python, Java, JavaScript (Proficient) • ARM64 Assembly (Familiar)  
+- 🧠 Interests: Software development, algorithms, systems, and learning new technologies  
+- 📚 Recent Courses: Data Structures, Algorithms, Computer Architecture, AI/ML, Data Science  
+- 💡 Currently learning: version control with Git and advanced C++ concepts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect:**  
+[LinkedIn](https://www.linkedin.com/in/sean-rogers22)
